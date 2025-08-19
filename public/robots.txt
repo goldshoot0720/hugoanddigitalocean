@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://starfish-app-rh2uk.ondigitalocean.app/sitemap.xml
